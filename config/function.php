@@ -20,4 +20,10 @@ function tambah($data){
     return mysqli_affected_rows($conn);
 }
 
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 5f41790b149468e64ab6c0e62e8153d06200237d
 ?>

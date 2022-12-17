@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -18,9 +19,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
     <script src="https://code.jquery.com/jquery-3.6.2.min.js" integrity="sha256-2krYZKh//PcchRtd+H+VyyQoZ/e3EcrkxhM8ycwASPA=" crossorigin="anonymous"></script>
 </head>
-
 <body>
-
     <div class="mx-auto">
         <div id="kotak" class="card">
             <div class="card-body">
@@ -28,6 +27,7 @@
                     <div class="mb-3">
                         <label for="judulbuku" class="form-label">Judul Buku</label>
                         <input type="text" class="form-control" id="judulbuku" name="judul">
+
                     </div>
 
                     <div class="mb-3">
